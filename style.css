@@ -1,21 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
 .contenedor {
-    background-color: lightsalmon;
+    background-color: #f6f7fb;
     text-align: center;
 }
 
 .seccion-principal {
-    background-color: lightcyan;
+    background-color: white;
     height: 200px;
     width: 200px;
     display: inline-block;
-    border: 5px solid lightseagreen;
+    border: 2px solid #aeaeae;
     padding: 60px;
     margin: 30px;
-    box-sizing: border-box;
     border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
 }
 
 .imagen {
-    width: 150px;
-    height: auto;
+    width: 130px;
+    height: 120px;
 }
