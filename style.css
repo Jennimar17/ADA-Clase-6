@@ -1,5 +1,6 @@
 .contenedor {
     background-color: lightsalmon;
+    text-align: center;
 }
 
 .seccion-principal {
@@ -11,6 +12,7 @@
     padding: 60px;
     margin: 30px;
     box-sizing: border-box;
+    border-radius: 8px;
 }
 
 .imagen {
