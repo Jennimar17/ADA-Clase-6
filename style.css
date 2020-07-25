@@ -1,0 +1,19 @@
+.contenedor {
+    background-color: lightsalmon;
+}
+
+.seccion-principal {
+    background-color: lightcyan;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border: 5px solid lightseagreen;
+    padding: 60px;
+    margin: 30px;
+    box-sizing: border-box;
+}
+
+.imagen {
+    width: 150px;
+    height: auto;
+}
